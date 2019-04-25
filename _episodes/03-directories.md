@@ -1,18 +1,14 @@
 ---
-title: "Introduction to EEGLAB"
+title: "EEGLAB within BIDS-EEG"
 teaching: 0
 exercises: 0
 questions:
-- "What are the analytic capabilities of EEGLAB"
-- "Requirements (Matlab)"
-- "What are the benefits of using an extendable platform"
-- "How are scripting procedures facilitated"
-- "How do data structures correspond with the BIDS standard"
+- "What does EEGLAB need to know about the folder structures?"
+- "How to set up the paths in Matlab/Octave"
 objectives:
-- "Understand position of EEGLAB among other EEG analytics tools"
-- "Establish a global view of analytic capabilities of EEGLAB"
+- "Undertand what EEGLAB needs to be able to find (data and scripts) and how to tell it where to find them."
 keypoints:
-- "What can I do with EEGLAB?"
+- "Working with EEGLAB requires that specific files can be found in specific locations"
 ---
 FIXME
 
