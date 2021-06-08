@@ -1,5 +1,5 @@
 ---
-title: "EEGLAB within BIDS-EEG"
+title: "Matlab: need to knows"
 teaching: 0
 exercises: 0
 questions:
